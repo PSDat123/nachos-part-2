@@ -3,7 +3,7 @@
 #define FTABLE_H
 #include "openfile.h"
 
-#define MAX_FILE 8
+#define MAX_FILE 10
 
 class FTable {
 private:
